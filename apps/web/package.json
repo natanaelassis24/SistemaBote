@@ -1,0 +1,19 @@
+{
+  "name": "@sistemabote/web",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "firebase": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "25.2.1",
+    "@types/react": "19.2.13"
+  }
+}
